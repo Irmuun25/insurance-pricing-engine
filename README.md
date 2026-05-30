@@ -93,5 +93,3 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 **Munkh-Irmuun Munkhbat**
-
-```
