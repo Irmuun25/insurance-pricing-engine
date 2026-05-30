@@ -31,7 +31,7 @@ The production model is deployed via a live, interactive **Streamlit web applica
 
 ## 🚀 Live Application
 The model is actively deployed and can be tested interactively.
-* **Streamlit App:** *(Insert your Streamlit share link here once deployed)*
+* **Streamlit App:** *https://insurance-pricing-engine-ra3thsmabausqkbsaudrjl.streamlit.app/*
 
 **Key Features:**
 * **Interactive Risk Modeling:** Sidebars allowing real-time tuning of continuous values (Age, BMI, dependants) and categorical risks.
