@@ -95,5 +95,3 @@ streamlit run app.py
 **Munkh-Irmuun Munkhbat**
 
 ```
-
-```
